@@ -1,0 +1,96 @@
+[{
+  "_id": {
+    "$oid": "68064c549e3332ec9d772a33"
+  },
+  "home": "Brazil",
+  "away": "Argentina",
+  "resultHome": 2,
+  "resultAway": 1,
+  "referee": "John Doe",
+  "location": "Stadium XYZ",
+  "gameType": "Quarter Finals"
+},
+{
+  "_id": {
+    "$oid": "68064c549e3332ec9d772a34"
+  },
+  "home": "Germany",
+  "away": "France",
+  "resultHome": 1,
+  "resultAway": 2,
+  "referee": "Jane Smith",
+  "location": "Stadium ABC",
+  "gameType": "Group Stage"
+},
+{
+  "_id": {
+    "$oid": "68064c549e3332ec9d772a35"
+  },
+  "home": "Spain",
+  "away": "Italy",
+  "resultHome": 0,
+  "resultAway": 1,
+  "referee": "Mike Johnson",
+  "location": "Stadium DEF",
+  "gameType": "Round of 16"
+},
+{
+  "_id": {
+    "$oid": "68064c549e3332ec9d772a36"
+  },
+  "home": "Nigeria",
+  "away": "Japan",
+  "resultHome": 1,
+  "resultAway": 2,
+  "referee": "Emily Davis",
+  "location": "Stadium GHI",
+  "gameType": "Group Stage"
+},
+{
+  "_id": {
+    "$oid": "68064c549e3332ec9d772a37"
+  },
+  "home": "Australia",
+  "away": "Mexico",
+  "resultHome": 2,
+  "resultAway": 2,
+  "referee": "Chris Lee",
+  "location": "Stadium JKL",
+  "gameType": "Group Stage"
+},
+{
+  "_id": {
+    "$oid": "68064c549e3332ec9d772a38"
+  },
+  "home": "Argentina",
+  "away": "Germany",
+  "resultHome": 3,
+  "resultAway": 2,
+  "referee": "Tom Brown",
+  "location": "Stadium MNO",
+  "gameType": "Semi Finals"
+},
+{
+  "_id": {
+    "$oid": "68064c549e3332ec9d772a39"
+  },
+  "home": "Brazil",
+  "away": "Italy",
+  "resultHome": 4,
+  "resultAway": 1,
+  "referee": "Sarah Wilson",
+  "location": "Stadium PQR",
+  "gameType": "Final"
+},
+{
+  "_id": {
+    "$oid": "68064c549e3332ec9d772a3a"
+  },
+  "home": "France",
+  "away": "Spain",
+  "resultHome": 1,
+  "resultAway": 1,
+  "referee": "David White",
+  "location": "Stadium STU",
+  "gameType": "Round of 16"
+}]

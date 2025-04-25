@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "68064bf89e3332ec9d772a25"
+  },
+  "username": "user1",
+  "email": "user1@example.com",
+  "balance": "1000"
+},
+{
+  "_id": {
+    "$oid": "68064bf89e3332ec9d772a26"
+  },
+  "username": "user2",
+  "email": "user2@example.com",
+  "balance": "1500"
+},
+{
+  "_id": {
+    "$oid": "68064bf89e3332ec9d772a27"
+  },
+  "username": "user3",
+  "email": "user3@example.com",
+  "balance": "200"
+},
+{
+  "_id": {
+    "$oid": "68064bf89e3332ec9d772a28"
+  },
+  "username": "user4",
+  "email": "user4@example.com",
+  "balance": "2500"
+},
+{
+  "_id": {
+    "$oid": "68064bf89e3332ec9d772a29"
+  },
+  "username": "user5",
+  "email": "user5@example.com",
+  "balance": "800"
+},
+{
+  "_id": {
+    "$oid": "68064bf89e3332ec9d772a2a"
+  },
+  "username": "user6",
+  "email": "user6@example.com",
+  "balance": "500"
+},
+{
+  "_id": {
+    "$oid": "68064bf89e3332ec9d772a2b"
+  },
+  "username": "user7",
+  "email": "user7@example.com",
+  "balance": "1200"
+},
+{
+  "_id": {
+    "$oid": "68064bf89e3332ec9d772a2c"
+  },
+  "username": "user8",
+  "email": "user8@example.com",
+  "balance": "300"
+},
+{
+  "_id": {
+    "$oid": "68064bf89e3332ec9d772a2d"
+  },
+  "username": "user9",
+  "email": "user9@example.com",
+  "balance": "1750"
+},
+{
+  "_id": {
+    "$oid": "68064bf89e3332ec9d772a2e"
+  },
+  "username": "user10",
+  "email": "user10@example.com",
+  "balance": "600"
+}]

@@ -1,0 +1,104 @@
+[{
+  "_id": {
+    "$oid": "68064f969e3332ec9d772a50"
+  },
+  "matchId": "68064c549e3332ec9d772a33",
+  "playerId": "68064bf89e3332ec9d772a25",
+  "betTime": "2025-04-20T12:00:00Z",
+  "prediction": {
+    "homeScore": 2,
+    "awayScore": 1
+  },
+  "amount": 100
+},
+{
+  "_id": {
+    "$oid": "68064f969e3332ec9d772a51"
+  },
+  "matchId": "68064c549e3332ec9d772a34",
+  "playerId": "68064bf89e3332ec9d772a26",
+  "betTime": "2025-04-20T13:00:00Z",
+  "prediction": {
+    "homeScore": 1,
+    "awayScore": 2
+  },
+  "amount": 150
+},
+{
+  "_id": {
+    "$oid": "68064f969e3332ec9d772a52"
+  },
+  "matchId": "68064c549e3332ec9d772a35",
+  "playerId": "68064bf89e3332ec9d772a27",
+  "betTime": "2025-04-20T14:00:00Z",
+  "prediction": {
+    "homeScore": 0,
+    "awayScore": 1
+  },
+  "amount": 200
+},
+{
+  "_id": {
+    "$oid": "68064f969e3332ec9d772a53"
+  },
+  "matchId": "68064c549e3332ec9d772a36",
+  "playerId": "68064bf89e3332ec9d772a28",
+  "betTime": "2025-04-20T15:00:00Z",
+  "prediction": {
+    "homeScore": 1,
+    "awayScore": 2
+  },
+  "amount": 250
+},
+{
+  "_id": {
+    "$oid": "68064f969e3332ec9d772a54"
+  },
+  "matchId": "68064c549e3332ec9d772a37",
+  "playerId": "68064bf89e3332ec9d772a29",
+  "betTime": "2025-04-20T16:00:00Z",
+  "prediction": {
+    "homeScore": 2,
+    "awayScore": 2
+  },
+  "amount": 100
+},
+{
+  "_id": {
+    "$oid": "68064f969e3332ec9d772a55"
+  },
+  "matchId": "68064c549e3332ec9d772a38",
+  "playerId": "68064bf89e3332ec9d772a2a",
+  "betTime": "2025-04-20T17:00:00Z",
+  "prediction": {
+    "homeScore": 3,
+    "awayScore": 2
+  },
+  "amount": 300
+},
+{
+  "_id": {
+    "$oid": "68064f969e3332ec9d772a56"
+  },
+  "matchId": "68064c549e3332ec9d772a39",
+  "playerId": "68064bf89e3332ec9d772a2b",
+  "betTime": "2025-04-20T18:00:00Z",
+  "prediction": {
+    "homeScore": 4,
+    "awayScore": 1
+  },
+  "amount": 150
+},
+{
+  "_id": {
+    "$oid": "68064f969e3332ec9d772a57"
+  },
+  "matchId": "68064c549e3332ec9d772a3a",
+  "playerId": "68064bf89e3332ec9d772a2c",
+  "betTime": "2025-04-20T19:00:00Z",
+  "prediction": {
+    "homeScore": 1,
+    "awayScore": 1
+  },
+  "amount": 50
+}]
