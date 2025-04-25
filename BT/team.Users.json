@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "680b1124847e96083a6d23e2"
+  },
+  "username": "jonh",
+  "email": "jonh@example.com",
+  "role": "user",
+  "created_at": {
+    "$date": "2025-04-25T08:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "680b1124847e96083a6d23e3"
+  },
+  "username": "harry",
+  "email": "harry@example.com",
+  "role": "user",
+  "created_at": {
+    "$date": "2025-04-25T08:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "680b1124847e96083a6d23e4"
+  },
+  "username": "clond",
+  "email": "clond@example.com",
+  "role": "user",
+  "created_at": {
+    "$date": "2025-04-25T08:00:00.000Z"
+  }
+}]

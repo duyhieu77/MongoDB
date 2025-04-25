@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "680b10a5842a863ab42f3c28"
+  },
+  "match_date": {
+    "$date": "2026-06-01T00:00:00.000Z"
+  },
+  "team1_id": {
+    "$oid": "680b0eb6fcb9ea493abaa1fe"
+  },
+  "team2_id": {
+    "$oid": "680b0eb6fcb9ea493abaa206"
+  },
+  "score_team1": 2,
+  "score_team2": 0,
+  "stage": "Group Stage",
+  "result": "Team1 Win"
+},
+{
+  "_id": {
+    "$oid": "680b10a5842a863ab42f3c29"
+  },
+  "match_date": {
+    "$date": "2026-06-02T00:00:00.000Z"
+  },
+  "team1_id": {
+    "$oid": "680b0eb6fcb9ea493abaa1ff"
+  },
+  "team2_id": {
+    "$oid": "680b0eb6fcb9ea493abaa207"
+  },
+  "score_team1": 1,
+  "score_team2": 1,
+  "stage": "Group Stage",
+  "result": "Draw"
+},
+{
+  "_id": {
+    "$oid": "680b10a5842a863ab42f3c2a"
+  },
+  "match_date": {
+    "$date": "2026-06-03T00:00:00.000Z"
+  },
+  "team1_id": {
+    "$oid": "680b0eb6fcb9ea493abaa200"
+  },
+  "team2_id": {
+    "$oid": "680b0eb6fcb9ea493abaa208"
+  },
+  "score_team1": 3,
+  "score_team2": 1,
+  "stage": "Group Stage",
+  "result": "Team1 Win"
+},
+{
+  "_id": {
+    "$oid": "680b10a5842a863ab42f3c2b"
+  },
+  "match_date": {
+    "$date": "2026-06-04T00:00:00.000Z"
+  },
+  "team1_id": {
+    "$oid": "680b0eb6fcb9ea493abaa201"
+  },
+  "team2_id": {
+    "$oid": "680b0eb6fcb9ea493abaa209"
+  },
+  "score_team1": 2,
+  "score_team2": 2,
+  "stage": "Group Stage",
+  "result": "Draw"
+},
+{
+  "_id": {
+    "$oid": "680b10a5842a863ab42f3c2c"
+  },
+  "match_date": {
+    "$date": "2026-06-05T00:00:00.000Z"
+  },
+  "team1_id": {
+    "$oid": "680b0eb6fcb9ea493abaa202"
+  },
+  "team2_id": {
+    "$oid": "680b0eb6fcb9ea493abaa20a"
+  },
+  "score_team1": 1,
+  "score_team2": 0,
+  "stage": "Group Stage",
+  "result": "Team1 Win"
+}]

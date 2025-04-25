@@ -1,0 +1,96 @@
+[{
+  "_id": {
+    "$oid": "680b13cb3a0d685043c5e0b0"
+  },
+  "user_id": {
+    "$oid": "680b1124847e96083a6d23e2"
+  },
+  "match_id": {
+    "$oid": "680b10a5842a863ab42f3c28"
+  },
+  "predicted_score_team1": 3,
+  "predicted_score_team2": 1,
+  "timestamp": {
+    "$date": "2026-05-31T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "680b13cb3a0d685043c5e0b1"
+  },
+  "user_id": {
+    "$oid": "680b1124847e96083a6d23e2"
+  },
+  "match_id": {
+    "$oid": "680b10a5842a863ab42f3c2a"
+  },
+  "predicted_score_team1": 2,
+  "predicted_score_team2": 0,
+  "timestamp": {
+    "$date": "2026-06-02T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "680b13cb3a0d685043c5e0b2"
+  },
+  "user_id": {
+    "$oid": "680b1124847e96083a6d23e3"
+  },
+  "match_id": {
+    "$oid": "680b10a5842a863ab42f3c29"
+  },
+  "predicted_score_team1": 2,
+  "predicted_score_team2": 1,
+  "timestamp": {
+    "$date": "2026-06-01T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "680b13cb3a0d685043c5e0b3"
+  },
+  "user_id": {
+    "$oid": "680b1124847e96083a6d23e3"
+  },
+  "match_id": {
+    "$oid": "680b10a5842a863ab42f3c2b"
+  },
+  "predicted_score_team1": 3,
+  "predicted_score_team2": 1,
+  "timestamp": {
+    "$date": "2026-06-03T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "680b13cb3a0d685043c5e0b4"
+  },
+  "user_id": {
+    "$oid": "680b1124847e96083a6d23e4"
+  },
+  "match_id": {
+    "$oid": "680b10a5842a863ab42f3c2c"
+  },
+  "predicted_score_team1": 2,
+  "predicted_score_team2": 0,
+  "timestamp": {
+    "$date": "2026-06-04T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "680b13cb3a0d685043c5e0b5"
+  },
+  "user_id": {
+    "$oid": "680b1124847e96083a6d23e4"
+  },
+  "match_id": {
+    "$oid": "680b10a5842a863ab42f3c28"
+  },
+  "predicted_score_team1": 2,
+  "predicted_score_team2": 2,
+  "timestamp": {
+    "$date": "2026-05-31T12:00:00.000Z"
+  }
+}]

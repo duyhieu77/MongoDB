@@ -1,0 +1,117 @@
+[{
+  "_id": {
+    "$oid": "680b0fdfcd320a87bca8d840"
+  },
+  "name": "Tuyển Brazil",
+  "continent": "South America",
+  "ranking": 5,
+  "group": "A"
+},
+{
+  "_id": {
+    "$oid": "680b0fdfcd320a87bca8d841"
+  },
+  "name": "Tuyển Argentina",
+  "continent": "South America",
+  "ranking": 1,
+  "group": "B"
+},
+{
+  "_id": {
+    "$oid": "680b0fdfcd320a87bca8d842"
+  },
+  "name": "Tuyển Germany",
+  "continent": "Europe",
+  "ranking": 3,
+  "group": "C"
+},
+{
+  "_id": {
+    "$oid": "680b0fdfcd320a87bca8d843"
+  },
+  "name": "Tuyển France",
+  "continent": "Europe",
+  "ranking": 2,
+  "group": "D"
+},
+{
+  "_id": {
+    "$oid": "680b0fdfcd320a87bca8d844"
+  },
+  "name": "Tuyển England",
+  "continent": "Europe",
+  "ranking": 4,
+  "group": "E"
+},
+{
+  "_id": {
+    "$oid": "680b0fdfcd320a87bca8d845"
+  },
+  "name": "Tuyển Spain",
+  "continent": "Europe",
+  "ranking": 6,
+  "group": "F"
+},
+{
+  "_id": {
+    "$oid": "680b0fdfcd320a87bca8d846"
+  },
+  "name": "Tuyển Italy",
+  "continent": "Europe",
+  "ranking": 10,
+  "group": "G"
+},
+{
+  "_id": {
+    "$oid": "680b0fdfcd320a87bca8d847"
+  },
+  "name": "Tuyển Netherlands",
+  "continent": "Europe",
+  "ranking": 7,
+  "group": "H"
+},
+{
+  "_id": {
+    "$oid": "680b0fdfcd320a87bca8d848"
+  },
+  "name": "Tuyển Portugal",
+  "continent": "Europe",
+  "ranking": 8,
+  "group": "A"
+},
+{
+  "_id": {
+    "$oid": "680b0fdfcd320a87bca8d849"
+  },
+  "name": "Tuyển Uruguay",
+  "continent": "South America",
+  "ranking": 14,
+  "group": "B"
+},
+{
+  "_id": {
+    "$oid": "680b0fdfcd320a87bca8d84a"
+  },
+  "name": "Tuyển United States",
+  "continent": "North America",
+  "ranking": 11,
+  "group": "C"
+},
+{
+  "_id": {
+    "$oid": "680b0fdfcd320a87bca8d84b"
+  },
+  "name": "Tuyển Mexico",
+  "continent": "North America",
+  "ranking": 15,
+  "group": "D"
+},
+{
+  "_id": {
+    "$oid": "680b0fdfcd320a87bca8d84c"
+  },
+  "name": "Tuyển Japan",
+  "continent": "Asia",
+  "ranking": 16,
+  "group": "E"
+}]
