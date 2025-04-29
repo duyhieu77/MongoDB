@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "681051ce4a2dfa9b1a15c0d5"
+  },
+  "name": "java",
+  "credit": 3
+},
+{
+  "_id": {
+    "$oid": "681051ce4a2dfa9b1a15c0d6"
+  },
+  "name": "Python",
+  "credit": 4
+},
+{
+  "_id": {
+    "$oid": "681051ce4a2dfa9b1a15c0d7"
+  },
+  "name": "DB",
+  "credit": 3
+},
+{
+  "_id": {
+    "$oid": "681051ce4a2dfa9b1a15c0d8"
+  },
+  "name": "AI",
+  "credit": 4
+}]
