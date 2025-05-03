@@ -1,0 +1,6 @@
+db.Students.find({ Gender: "Male", Grade: { $gt: 80 } });
+
+db.Students.find({
+    Gender: "Female",
+    Birthday: { $gt: new Date(new Date().setFullYear(new Date().getFullYear() - 25)) }
+});
