@@ -1,0 +1,16 @@
+db.Article.find({ categories: "sa ngộ nghĩnh" }).sort({ date: -1 });
+
+db.Article.aggregate([
+    { $match: { author: "sa ngộ nghĩnh" } },
+    { $group: { _id: "$author", count: { $sum: 1 } } }
+]);
+
+db.Article.aggregate([
+    {
+        $match: {
+            author: "sa ngộ nghĩnh",
+            date: { $gte: new Date("2025-04-01"), $lt: new Date("2025-05-01") }
+        }
+    },
+    { $group: { _id: "$author", count: { $sum: 1 } } }
+]);
